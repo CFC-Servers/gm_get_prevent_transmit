@@ -1,3 +1,5 @@
+require( "gm_prevent_transmit" )
+
 return {
     groupName = "GetPreventTransmit",
 
