@@ -1,7 +1,7 @@
 # gm_get_prevent_transmit
 A simple Getter companion for [SetPreventTransmit](https://wiki.facepunch.com/gmod/Entity:SetPreventTransmit).
 
-![GLuaTest](https://github.com/CFC-Servers/gm_get_prevent_transmit/actions/workflows/gluatest.yml/badge.svg)
+[![GLuaTest](https://github.com/CFC-Servers/gm_get_prevent_transmit/actions/workflows/gluatest.yml/badge.svg)](https://github.com/CFC-Servers/GLuaTest)
 ![GLuaLint](https://github.com/CFC-Servers/gm_get_prevent_transmit/actions/workflows/glualint.yml/badge.svg)
 
 ## Docs
