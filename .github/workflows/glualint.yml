@@ -6,3 +6,5 @@ on:
 jobs:
   Lint:
     uses: CFC-Servers/GLuaFixer/.github/workflows/glualint.yml@feature/add-workflow
+    with:
+      config: "https://cfc.gg/configs/gluafixer/glualint.json"
